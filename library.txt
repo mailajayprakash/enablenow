@@ -1,0 +1,18 @@
+﻿{
+"categories":{
+}
+,
+"entity_filename":"entity.txt",
+"root":{
+"type":"Ref",
+"tclass":"project",
+"uid":"PR_BB2CBB697EED0F95",
+"caption":"Project 20200914121258",
+"context_id":"",
+"roles":"",
+"context_info":"",
+"macroset":"standard",
+"filter":[
+]
+}
+}

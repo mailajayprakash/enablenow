@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST_7c179772_d2dc_4e06_be82_5cb5c1538ef1" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:dc="http://www.sap.com/xsd/dc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://ltsc.ieee.org/xsd/LOM lomLoose.xsd http://www.sap.com/xsd/dc dces.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>2004 3rd Edition</schemaversion>
+    </metadata>
+    <organizations default="ORG_project_PR_BB2CBB697EED0F95_0">
+        <organization identifier="ORG_project_PR_BB2CBB697EED0F95_0">
+            <title>Project 20200914121258</title>
+            <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_1">
+                <title>Project 20200914121258</title>
+                <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_demo_0" identifierref="project_PR_BB2CBB697EED0F95_demo">
+                    <title>Project 20200914121258 Demo</title>
+                    <imsss:sequencing>
+                        <imsss:rollupRules objectiveMeasureWeight="0.0" rollupObjectiveSatisfied="false" rollupProgressCompletion="false"/>
+                    </imsss:sequencing>
+                </item>
+                <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_uebung_0" identifierref="project_PR_BB2CBB697EED0F95_uebung">
+                    <title>Project 20200914121258 Practice</title>
+                    <imsss:sequencing>
+                        <imsss:rollupRules objectiveMeasureWeight="0.0" rollupObjectiveSatisfied="false" rollupProgressCompletion="false"/>
+                    </imsss:sequencing>
+                </item>
+                <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_test_0" identifierref="project_PR_BB2CBB697EED0F95_test">
+                    <title>Project 20200914121258 Test</title>
+                    <imsss:sequencing>
+                        <imsss:rollupRules objectiveMeasureWeight="0.0" rollupObjectiveSatisfied="false" rollupProgressCompletion="false"/>
+                    </imsss:sequencing>
+                </item>
+                <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_praxis_0" identifierref="project_PR_BB2CBB697EED0F95_praxis">
+                    <title>Project 20200914121258 Concurrent</title>
+                    <imsss:sequencing>
+                        <imsss:rollupRules objectiveMeasureWeight="0.0" rollupObjectiveSatisfied="false" rollupProgressCompletion="false"/>
+                    </imsss:sequencing>
+                </item>
+                <item isvisible="true" identifier="ORG_project_PR_BB2CBB697EED0F95_guided_0" identifierref="project_PR_BB2CBB697EED0F95_guided">
+                    <title>Project 20200914121258 Guided Presentation</title>
+                    <imsss:sequencing>
+                        <imsss:rollupRules objectiveMeasureWeight="0.0" rollupObjectiveSatisfied="false" rollupProgressCompletion="false"/>
+                    </imsss:sequencing>
+                </item>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="adaptable_categories" href="index.html?show=adaptable!categories" type="webcontent" adlcp:scormType="asset">
+            <file href="adaptable/categories/translation.sl.txt"/>
+            <file href="adaptable/categories/translation.de-CH.txt"/>
+            <file href="adaptable/categories/translation.es-CO.txt"/>
+            <file href="adaptable/categories/translation.ms-MY.txt"/>
+            <file href="adaptable/categories/translation.sr-SP.txt"/>
+            <file href="adaptable/categories/translation.ru.txt"/>
+            <file href="adaptable/categories/translation.ar-SA.txt"/>
+            <file href="adaptable/categories/translation.id.txt"/>
+            <file href="adaptable/categories/translation.da.txt"/>
+            <file href="adaptable/categories/translation.it-IT.txt"/>
+            <file href="adaptable/categories/translation.de-DE.txt"/>
+            <file href="adaptable/categories/translation.bg.txt"/>
+            <file href="adaptable/categories/translation.cs.txt"/>
+            <file href="adaptable/categories/translation.el.txt"/>
+            <file href="adaptable/categories/translation.ja.txt"/>
+            <file href="adaptable/categories/translation.en-GB.txt"/>
+            <file href="adaptable/categories/translation.en-US.txt"/>
+            <file href="adaptable/categories/translation.es-ES.txt"/>
+            <file href="adaptable/categories/translation.hr-HR.txt"/>
+            <file href="adaptable/categories/translation.nl-NL.txt"/>
+            <file href="adaptable/categories/translation.fr-FR.txt"/>
+            <file href="adaptable/categories/translation.pt-PT.txt"/>
+            <file href="adaptable/categories/translation.hu.txt"/>
+            <file href="adaptable/categories/translation.et.txt"/>
+            <file href="adaptable/categories/translation.fi.txt"/>
+            <file href="adaptable/categories/translation.fr-CA.txt"/>
+            <file href="adaptable/categories/translation.he.txt"/>
+            <file href="adaptable/categories/translation.hi.txt"/>
+            <file href="adaptable/categories/translation.kk.txt"/>
+            <file href="adaptable/categories/translation.lt.txt"/>
+            <file href="adaptable/categories/translation.ko.txt"/>
+            <file href="adaptable/categories/translation.nb.txt"/>
+            <file href="adaptable/categories/translation.th.txt"/>
+            <file href="adaptable/categories/translation.lv.txt"/>
+            <file href="adaptable/categories/translation.pl.txt"/>
+            <file href="adaptable/categories/translation.pt-BR.txt"/>
+            <file href="adaptable/categories/translation.ro.txt"/>
+            <file href="adaptable/categories/translation.sk.txt"/>
+            <file href="adaptable/categories/translation.tr.txt"/>
+            <file href="adaptable/categories/translation.uk.txt"/>
+            <file href="adaptable/categories/translation.sv-SE.txt"/>
+            <file href="adaptable/categories/translation.vi.txt"/>
+            <file href="adaptable/categories/translation.zh-CN.txt"/>
+            <file href="adaptable/categories/translation.zh-TW.txt"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_simulation_playback" href="index.html?show=adaptable!simulation_playback" type="webcontent" adlcp:scormType="asset">
+            <file href="adaptable/simulation_playback/trainer_global.js"/>
+            <file href="adaptable/simulation_playback/simulation_fallbacks.js"/>
+            <file href="adaptable/simulation_playback/trainer_demo.js"/>
+            <file href="adaptable/simulation_playback/trainer_lib.js"/>
+            <file href="adaptable/simulation_playback/slide_fallbacks.js"/>
+            <file href="adaptable/simulation_playback/trainer_praxis.js"/>
+            <file href="adaptable/simulation_playback/trainer_book.js"/>
+            <file href="adaptable/simulation_playback/trainer_uebung.js"/>
+            <file href="adaptable/simulation_playback/trainer_guided.js"/>
+            <file href="adaptable/simulation_playback/trainer_pres.js"/>
+            <file href="adaptable/simulation_playback/trainer_test.js"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_text_styles" href="index.html?show=adaptable!text_styles" type="webcontent" adlcp:scormType="asset">
+            <file href="adaptable/text_styles/text_styles.css"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_trainer_flat" href="index.html?show=adaptable!trainer_flat" type="webcontent" adlcp:scormType="asset">
+            <file href="adaptable/trainer_flat/1.gif"/>
+            <file href="adaptable/trainer_flat/td.png"/>
+            <file href="adaptable/trainer_flat/mouse.txt"/>
+            <file href="adaptable/trainer_flat/t_app_icon_general_128x128.png"/>
+            <file href="adaptable/trainer_flat/book.txt"/>
+            <file href="adaptable/trainer_flat/tree_icons.txt"/>
+            <file href="adaptable/trainer_flat/bbd_startpage.png"/>
+            <file href="adaptable/trainer_flat/popup.txt"/>
+            <file href="adaptable/trainer_flat/navigator_close_normal.gif"/>
+            <file href="adaptable/trainer_flat/2254DB0B37C8D1AE.png"/>
+            <file href="adaptable/trainer_flat/308724D7C722508F.png"/>
+            <file href="adaptable/trainer_flat/library.txt"/>
+            <file href="adaptable/trainer_flat/o.gif"/>
+            <file href="adaptable/trainer_flat/6D7BFEF83F2A35BB.png"/>
+            <file href="adaptable/trainer_flat/colors.html"/>
+            <file href="adaptable/trainer_flat/tree_icons.png"/>
+            <file href="adaptable/trainer_flat/tri_link_ora2.png"/>
+            <file href="adaptable/trainer_flat/gr_startpage.png"/>
+            <file href="adaptable/trainer_flat/help.png"/>
+            <file href="adaptable/trainer_flat/7356B626A87EBAA7.png"/>
+            <file href="adaptable/trainer_flat/bbd_start_pic1.png"/>
+            <file href="adaptable/trainer_flat/none.gif"/>
+            <file href="adaptable/trainer_flat/s.png"/>
+            <file href="adaptable/trainer_flat/feedback.txt"/>
+            <file href="adaptable/trainer_flat/file.txt"/>
+            <file href="adaptable/trainer_flat/tryagain.png"/>
+            <file href="adaptable/trainer_flat/tipp.gif"/>
+            <file href="adaptable/trainer_flat/frame.txt"/>
+            <file href="adaptable/trainer_flat/goon.png"/>
+            <file href="adaptable/trainer_flat/t_app_icon_small_120x120.png"/>
+            <file href="adaptable/trainer_flat/warnung.gif"/>
+            <file href="adaptable/trainer_flat/t_app_icon_wide_310x150.png"/>
+            <file href="adaptable/trainer_flat/next_red.int.gif"/>
+            <file href="adaptable/trainer_flat/gr_start_pic.png"/>
+            <file href="adaptable/trainer_flat/slide.txt"/>
+            <file href="adaptable/trainer_flat/hg.gif"/>
+            <file href="adaptable/trainer_flat/quiz.txt"/>
+            <file href="adaptable/trainer_flat/hinweis.gif"/>
+            <file href="adaptable/trainer_flat/info.gif"/>
+            <file href="adaptable/trainer_flat/lesson.txt"/>
+            <file href="adaptable/trainer_flat/sh.png"/>
+            <file href="adaptable/trainer_flat/save_log.txt"/>
+            <file href="adaptable/trainer_flat/t_app_icon_large_310x310.png"/>
+            <file href="adaptable/trainer_flat/t_app_icon_medium_152x152.png"/>
+            <file href="adaptable/trainer_flat/t_app_icon_normal_192x192.png"/>
+            <file href="adaptable/trainer_flat/tri_link_2011.png"/>
+            <file href="adaptable/trainer_flat/sv.png"/>
+            <file href="adaptable/trainer_flat/taskinfo.txt"/>
+            <file href="adaptable/trainer_flat/t_app_icon_browser_64x64.png"/>
+            <file href="adaptable/trainer_flat/t_app_icon_tiny_76x76.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="book_style_standard" href="index.html?show=book_style!standard" type="webcontent" adlcp:scormType="asset">
+            <file href="book_style/standard/page/page_image.png"/>
+            <file href="book_style/standard/arrow_down.png"/>
+            <file href="book_style/standard/textbox/close_hi.png"/>
+            <file href="book_style/standard/icons/open_moreInfoBtn.png"/>
+            <file href="book_style/standard/icons/start.png"/>
+            <file href="book_style/standard/textbox/bottom_right_end.png"/>
+            <file href="book_style/standard/textbox/icon_info.png"/>
+            <file href="book_style/standard/clip.png"/>
+            <file href="book_style/standard/textbox/textbox.css"/>
+            <file href="book_style/standard/icons/quiz.png"/>
+            <file href="book_style/standard/icons/book.png"/>
+            <file href="book_style/standard/textbox/icon_tip.png"/>
+            <file href="book_style/standard/filelist.txt"/>
+            <file href="book_style/standard/icons/practice.png"/>
+            <file href="book_style/standard/icons/concurrent.png"/>
+            <file href="book_style/standard/icons/demo.png"/>
+            <file href="book_style/standard/icons/guided.png"/>
+            <file href="book_style/standard/textbox/vert_right.png"/>
+            <file href="book_style/standard/textbox/vert_right_bottom.png"/>
+            <file href="book_style/standard/icons/open_textwindow.png"/>
+            <file href="book_style/standard/icons/open_tipsBtn.png"/>
+            <file href="book_style/standard/icons/pres.png"/>
+            <file href="book_style/standard/textbox/bottom.png"/>
+            <file href="book_style/standard/icons/slide.png"/>
+            <file href="book_style/standard/icons/test.png"/>
+            <file href="book_style/standard/icons/zoom.png"/>
+            <file href="book_style/standard/icons/zoom_active.png"/>
+            <file href="book_style/standard/min_bubble.png"/>
+            <file href="book_style/standard/page/ArrowNext.gif"/>
+            <file href="book_style/standard/textbox/top.png"/>
+            <file href="book_style/standard/textbox/bottom_left_end.png"/>
+            <file href="book_style/standard/page/ArrowNext_highlight.gif"/>
+            <file href="book_style/standard/page/ArrowPrevious.gif"/>
+            <file href="book_style/standard/page/ArrowPrevious_highlight.gif"/>
+            <file href="book_style/standard/textbox/close.png"/>
+            <file href="book_style/standard/textbox/top_left.png"/>
+            <file href="book_style/standard/textbox/top_right.png"/>
+            <file href="book_style/standard/textbox/vert_left.png"/>
+            <file href="book_style/standard/textbox/vert_left_bottom.png"/>
+            <file href="book_style/standard/textbox/vert_left_top.png"/>
+            <file href="book_style/standard/textbox/vert_right_top.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-book_style</dc:format>
+        </resource>
+        <resource identifier="bubble_white_island" href="index.html?show=bubble!white_island" type="webcontent" adlcp:scormType="asset">
+            <file href="bubble/white_island/bubble.txt"/>
+            <file href="bubble/white_island/sprite.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-bubble</dc:format>
+        </resource>
+        <resource identifier="glossary_standard" href="index.html?show=glossary!standard" type="webcontent" adlcp:scormType="asset">
+            <file href="glossary/standard/textatoms.da.txt"/>
+            <file href="glossary/standard/textatoms.ro.txt"/>
+            <file href="glossary/standard/textatoms.de-DE.txt"/>
+            <file href="glossary/standard/textatoms.bg.txt"/>
+            <file href="glossary/standard/textatoms.es-ES.txt"/>
+            <file href="glossary/standard/textatoms.fr-FR.txt"/>
+            <file href="glossary/standard/textatoms.nl-NL.txt"/>
+            <file href="glossary/standard/textatoms.pt-PT.txt"/>
+            <file href="glossary/standard/textatoms.id.txt"/>
+            <file href="glossary/standard/textatoms.it-IT.txt"/>
+            <file href="glossary/standard/textatoms.nb.txt"/>
+            <file href="glossary/standard/textatoms.ko.txt"/>
+            <file href="glossary/standard/textatoms.ar-SA.txt"/>
+            <file href="glossary/standard/textatoms.cs.txt"/>
+            <file href="glossary/standard/textatoms.en-US.txt"/>
+            <file href="glossary/standard/textatoms.es-CO.txt"/>
+            <file href="glossary/standard/textatoms.de-CH.txt"/>
+            <file href="glossary/standard/textatoms.pt-BR.txt"/>
+            <file href="glossary/standard/textatoms.el.txt"/>
+            <file href="glossary/standard/textatoms.hi.txt"/>
+            <file href="glossary/standard/textatoms.en-GB.txt"/>
+            <file href="glossary/standard/textatoms.ru.txt"/>
+            <file href="glossary/standard/textatoms.sl.txt"/>
+            <file href="glossary/standard/textatoms.vi.txt"/>
+            <file href="glossary/standard/textatoms.ms-MY.txt"/>
+            <file href="glossary/standard/textatoms.he.txt"/>
+            <file href="glossary/standard/textatoms.et.txt"/>
+            <file href="glossary/standard/textatoms.fi.txt"/>
+            <file href="glossary/standard/textatoms.fr-CA.txt"/>
+            <file href="glossary/standard/textatoms.hr-HR.txt"/>
+            <file href="glossary/standard/textatoms.hu.txt"/>
+            <file href="glossary/standard/textatoms.ja.txt"/>
+            <file href="glossary/standard/textatoms.lt.txt"/>
+            <file href="glossary/standard/textatoms.kk.txt"/>
+            <file href="glossary/standard/textatoms.lv.txt"/>
+            <file href="glossary/standard/textatoms.th.txt"/>
+            <file href="glossary/standard/textatoms.zh-TW.txt"/>
+            <file href="glossary/standard/textatoms.pl.txt"/>
+            <file href="glossary/standard/textatoms.sk.txt"/>
+            <file href="glossary/standard/textatoms.sr-SP.txt"/>
+            <file href="glossary/standard/textatoms.sv-SE.txt"/>
+            <file href="glossary/standard/textatoms.tr.txt"/>
+            <file href="glossary/standard/textatoms.uk.txt"/>
+            <file href="glossary/standard/textatoms.zh-CN.txt"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-glossary</dc:format>
+        </resource>
+        <resource identifier="help_en_US" href="index.html?show=help!en-US" type="webcontent" adlcp:scormType="asset">
+            <file href="help/en-US/contents/cdoc!CD_10F43626FBB2F4BC.htm"/>
+            <file href="help/en-US/img/favicon.ico"/>
+            <file href="help/en-US/contents/cdoc!CD_280B109C2ED57186.htm"/>
+            <file href="help/en-US/img/footer_grad.jpg"/>
+            <file href="help/en-US/css/headerfooter.css"/>
+            <file href="help/en-US/header.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_D3ED30040166409F.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_153843B1A98D5B83.htm"/>
+            <file href="help/en-US/img/footer_grad_inv.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_1DD1C2C0981BFD89.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_1606123861F2B387/2A4C0F990489D399.png"/>
+            <file href="help/en-US/img/m_head_large_grad.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_25941754CA8FFD85/240C465E8931288D.png"/>
+            <file href="help/en-US/css/print.css"/>
+            <file href="help/en-US/img/cur_exp.cur"/>
+            <file href="help/en-US/contents/cdoc!CD_BD6527EAA3F6F194.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_2453F82EC484D5BE.htm"/>
+            <file href="help/en-US/img/boxHeader_bg_dark.jpg"/>
+            <file href="help/en-US/img/num9.png"/>
+            <file href="help/en-US/contents/cdoc!CD_1606123861F2B387.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_37056C831730E6B1.htm"/>
+            <file href="help/en-US/contents/start.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_41F667D795DEE0B7.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_2528DDD1E45DFDBB.htm"/>
+            <file href="help/en-US/search/searchindex.xml"/>
+            <file href="help/en-US/img/navpane_bg.jpg"/>
+            <file href="help/en-US/contents.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_BA8CCDB2E59AA6B4.htm"/>
+            <file href="help/en-US/img/num3.png"/>
+            <file href="help/en-US/img/box_bottom.png"/>
+            <file href="help/en-US/contents/cdoc!CD_25941754CA8FFD85.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_EF1BE15CEDFDD2BC.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_B8E8BCDBBD7A2B7/image001.png"/>
+            <file href="help/en-US/contents/cdoc!CD_4B0DA5AB4717D786.htm"/>
+            <file href="help/en-US/contents/favorites.htm"/>
+            <file href="help/en-US/img/bg_head_left.png"/>
+            <file href="help/en-US/img/cur_coll.cur"/>
+            <file href="help/en-US/img/box_bottom_top_dark.png"/>
+            <file href="help/en-US/contents/cdoc!CD_28DD568C8688009D.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_36B3F5EFB29C5B93.htm"/>
+            <file href="help/en-US/css/left.css"/>
+            <file href="help/en-US/contents/cdoc!CD_48C000DF67102D91.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_7A7C3E006F8DA196/E092D4FA4EB92196.png"/>
+            <file href="help/en-US/img/doc_pdf.gif"/>
+            <file href="help/en-US/contents/cdoc!CD_7A7C3E006F8DA196.htm"/>
+            <file href="help/en-US/css/main.css"/>
+            <file href="help/en-US/css/boxes.css"/>
+            <file href="help/en-US/contents/cdoc!CD_88210301367B3C8C.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_9ABC72A61D06B6A1.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_E5CC78E81658CE90.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_D54EE79E857D6EA5.htm"/>
+            <file href="help/en-US/img/num2.png"/>
+            <file href="help/en-US/contents/cdoc!CD_B8E8BCDBBD7A2B7.htm"/>
+            <file href="help/en-US/img/bg_head_left.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_EC77954C8B73B392.htm"/>
+            <file href="help/en-US/css/mobile.css"/>
+            <file href="help/en-US/contents/cdoc!CD_ED594D45157978A7.htm"/>
+            <file href="help/en-US/img/doc_doc.gif"/>
+            <file href="help/en-US/contents/cdoc!CD_F6DC6642D2B2D385.htm"/>
+            <file href="help/en-US/css/ie.css"/>
+            <file href="help/en-US/css/alternate.css"/>
+            <file href="help/en-US/img/box_top.png"/>
+            <file href="help/en-US/default.htm"/>
+            <file href="help/en-US/img/alpha.gif"/>
+            <file href="help/en-US/img/box_head_top_dark.png"/>
+            <file href="help/en-US/img/arr_down_grey.png"/>
+            <file href="help/en-US/img/box_content.png"/>
+            <file href="help/en-US/img/cur_gloss.cur"/>
+            <file href="help/en-US/img/divider.gif"/>
+            <file href="help/en-US/img/doc_html.gif"/>
+            <file href="help/en-US/img/footer_grad_inv_h.jpg"/>
+            <file href="help/en-US/img/head_large_grad.jpg"/>
+            <file href="help/en-US/img/note.png"/>
+            <file href="help/en-US/img/num1.png"/>
+            <file href="help/en-US/img/num10.png"/>
+            <file href="help/en-US/img/num4.png"/>
+            <file href="help/en-US/img/num5.png"/>
+            <file href="help/en-US/img/num6.png"/>
+            <file href="help/en-US/img/num7.png"/>
+            <file href="help/en-US/img/num8.png"/>
+            <file href="help/en-US/img/s.png"/>
+            <file href="help/en-US/img/sh.png"/>
+            <file href="help/en-US/img/supbutton.gif"/>
+            <file href="help/en-US/img/supbutton_hover.gif"/>
+            <file href="help/en-US/indexlist.htm"/>
+            <file href="help/en-US/script/cnt.js"/>
+            <file href="help/en-US/script/context.js"/>
+            <file href="help/en-US/script/master.js"/>
+            <file href="help/en-US/script/varchars.js"/>
+            <file href="help/en-US/search.htm"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-help</dc:format>
+        </resource>
+        <resource identifier="macroset_standard" href="index.html?show=macroset!standard" type="webcontent" adlcp:scormType="asset">
+            <file href="macroset/standard/quiz_default_template_hs.js"/>
+            <file href="macroset/standard/1.gif"/>
+            <file href="macroset/standard/script/json.js"/>
+            <file href="macroset/standard/script/ActionAnalyzer.js"/>
+            <file href="macroset/standard/script/ActionAnalyzerNavi.js"/>
+            <file href="macroset/standard/script/TestingAutomat.js"/>
+            <file href="macroset/standard/script/QuickRecordingNaviAutomat.js"/>
+            <file href="macroset/standard/quiz_default_template.js"/>
+            <file href="macroset/standard/script/DocEngineHandsOn.js"/>
+            <file href="macroset/standard/Headers.xml"/>
+            <file href="macroset/standard/macros.js"/>
+            <file href="macroset/standard/script/TextBuffer.js"/>
+            <file href="macroset/standard/quiz_default_template_fib.js"/>
+            <file href="macroset/standard/script/config.js"/>
+            <file href="macroset/standard/script/DocEngineDemoscript.js"/>
+            <file href="macroset/standard/script/FragmentProcessorImpl.js"/>
+            <file href="macroset/standard/script/DocEngineImpl.js"/>
+            <file href="macroset/standard/script/DocEngineMarkdown.js"/>
+            <file href="macroset/standard/script/DocuBuilder.js"/>
+            <file href="macroset/standard/script/doc_util.js"/>
+            <file href="macroset/standard/script/FragmentProcessorNavi.js"/>
+            <file href="macroset/standard/script/lang.js"/>
+            <file href="macroset/standard/simulationr.js"/>
+            <file href="macroset/standard/util.js"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-macroset</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95" href="index.html?show=project!PR_BB2CBB697EED0F95" type="webcontent" adlcp:scormType="asset">
+            <file href="project/PR_BB2CBB697EED0F95/demo.js"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_500566E450ABF186/dump_page/img.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_4B2E1A36A91955AE/fieldicon.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_B4F50925ACA4AEB2/fieldicon.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_8893B6DE725E9F9B/dump_page/img.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_86173A37C0E1DEAB/dump_page/img.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/guided.js"/>
+            <file href="project/PR_BB2CBB697EED0F95/lesson.js"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_B0E9098314B355BA/fieldicon.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_586623CBCDB306BC/dump_page/img.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_ED91F928EF61DDA9/dump_page/img.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/macro/MAC_F8E417E46BBC5F9D/fieldicon.png"/>
+            <file href="project/PR_BB2CBB697EED0F95/praxis.js"/>
+            <file href="project/PR_BB2CBB697EED0F95/test.js"/>
+            <file href="project/PR_BB2CBB697EED0F95/uebung.js"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="adaptable_simulation_playback"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="adaptable_trainer_flat"/>
+            <dependency identifierref="book_style_standard"/>
+            <dependency identifierref="bubble_white_island"/>
+            <dependency identifierref="glossary_standard"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="macroset_standard"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-project</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95_demo" href="index.html?config=project/PR_BB2CBB697EED0F95/demo.js" type="webcontent" adlcp:scormType="sco">
+            <dependency identifierref="project_PR_BB2CBB697EED0F95"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-tour-demo</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95_guided" href="index.html?config=project/PR_BB2CBB697EED0F95/guided.js" type="webcontent" adlcp:scormType="sco">
+            <dependency identifierref="project_PR_BB2CBB697EED0F95"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-tour-guided</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95_praxis" href="index.html?config=project/PR_BB2CBB697EED0F95/praxis.js" type="webcontent" adlcp:scormType="sco">
+            <dependency identifierref="project_PR_BB2CBB697EED0F95"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-tour-praxis</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95_test" href="index.html?config=project/PR_BB2CBB697EED0F95/test.js" type="webcontent" adlcp:scormType="sco">
+            <dependency identifierref="project_PR_BB2CBB697EED0F95"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-tour-test</dc:format>
+        </resource>
+        <resource identifier="project_PR_BB2CBB697EED0F95_uebung" href="index.html?config=project/PR_BB2CBB697EED0F95/uebung.js" type="webcontent" adlcp:scormType="sco">
+            <dependency identifierref="project_PR_BB2CBB697EED0F95"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-tour-uebung</dc:format>
+        </resource>
+        <resource identifier="TRAINER" href="index.html" type="webcontent" adlcp:scormType="asset">
+            <file href="trainer/10_4_4_1544/1.gif"/>
+            <file href="trainer/10_4_4_1544/about_blank.html"/>
+            <file href="trainer/10_4_4_1544/aicc.html"/>
+            <file href="trainer/10_4_4_1544/context.html"/>
+            <file href="trainer/10_4_4_1544/hotspot.png"/>
+            <file href="trainer/10_4_4_1544/index.html"/>
+            <file href="trainer/10_4_4_1544/trainer.js"/>
+            <file href="trainer/10_4_4_1544/slide.htm"/>
+            <file href="trainer/10_4_4_1544/slide.js"/>
+            <file href="trainer/10_4_4_1544/tree_icons.png"/>
+            <file href="trainer/10_4_4_1544/video_export.html"/>
+            <file href="index.html"/>
+            <file href="context.html"/>
+            <dependency identifierref="adaptable_simulation_playback"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="adaptable_trainer_flat"/>
+            <dependency identifierref="glossary_standard"/>
+            <dependency identifierref="help_en_US"/>
+            <dc:format>application/x-sap-wpb-trainer</dc:format>
+        </resource>
+    </resources>
+</manifest>
